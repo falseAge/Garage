@@ -8,8 +8,6 @@
 
 <ul>
   <li>Animation-открытие ворот через ивент прохождения сквозь невидимый барьер</li>
-  
-  <li></li>
 
   <li>Character Controller и New Input System для управления персонажем</li>
 
@@ -33,8 +31,6 @@
   
   <li>ProBuilder</li>
 </ul>
-
-## Структура проекта
 
 ## Автор
 [falseAge](https://github.com/falseAge) - разработчик проекта
