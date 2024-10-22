@@ -11,7 +11,7 @@
 
   <li>Character Controller и New Input System для управления персонажем</li>
 
-  <li>Поднятие/бросание предметов с полок</li>
+  <li>Поднятие/бросание предметов с полок с помощью raycasts</li>
 
   <li>Левел-прототип через ProBuilder</li>
 </ul>
